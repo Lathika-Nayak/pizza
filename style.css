@@ -21,6 +21,9 @@ nav a{
     text-align: center;
     
 }
+nav a:hover{
+    background-color: rgb(227, 134, 134);
+}
 .page1  {
     display: flex;
     flex-direction:column;
